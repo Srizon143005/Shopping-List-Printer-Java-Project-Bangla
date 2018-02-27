@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Heading" max="32767" attributes="0"/>
+                  <Component id="jPanel1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+              <Component id="Heading" min="-2" pref="49" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="L1" min="-2" pref="651" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel7" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="LL4" min="-2" pref="125" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="LL4T" max="32767" attributes="0"/>
+                              </Group>
+                              <Component id="L2" alignment="0" max="32767" attributes="0"/>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="LL2" max="32767" attributes="0"/>
+                                      <Component id="LL1" max="32767" attributes="0"/>
+                                      <Component id="LL3" alignment="0" pref="125" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="LL2T" alignment="0" pref="506" max="32767" attributes="0"/>
+                                      <Component id="LL1T" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="LL3T" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="LL6" pref="125" max="32767" attributes="0"/>
+                                      <Component id="LL5" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Component id="LL6T" pref="243" max="32767" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="Reset" min="-2" pref="126" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="Set" min="-2" pref="125" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="LL5T" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="0" pref="236" max="32767" attributes="0"/>
+                                  <Component id="Print" min="-2" pref="150" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jScrollPane1" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="L1" pref="35" max="32767" attributes="0"/>
+                      <Component id="jLabel7" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="LL1" max="32767" attributes="0"/>
+                              <Component id="LL1T" min="-2" pref="35" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="LL2" max="32767" attributes="0"/>
+                              <Component id="LL2T" min="-2" pref="35" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="LL3" max="32767" attributes="0"/>
+                              <Component id="LL3T" min="-2" pref="35" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="L2" min="-2" pref="35" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="LL4" max="32767" attributes="0"/>
+                              <Component id="LL4T" pref="35" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="LL5" max="32767" attributes="0"/>
+                              <Component id="LL5T" pref="35" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="jScrollPane1" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="Set" pref="35" max="32767" attributes="0"/>
+                      <Component id="Reset" max="32767" attributes="0"/>
+                      <Component id="LL6" max="32767" attributes="0"/>
+                      <Component id="LL6T" max="32767" attributes="0"/>
+                      <Component id="Print" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="LL1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x995;&#x9c7;&#x9a8;&#x9be;&#x9b0; &#x9a4;&#x9be;&#x9b0;&#x9bf;&#x996;&#x983;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="LL1T">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LL2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x995;&#x9cd;&#x9b0;&#x9c7;&#x9a4;&#x9be;&#x9b0; &#x9a8;&#x9be;&#x9ae;&#x983;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="LL2T">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LL3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x995;&#x9cd;&#x9b0;&#x9c7;&#x9a4;&#x9be;&#x9b0; &#x9a0;&#x9bf;&#x995;&#x9be;&#x9a8;&#x9be;&#x983;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="LL3T">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="L1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="&#x9b8;&#x9be;&#x9a7;&#x9be;&#x9b0;&#x9a3; &#x9a4;&#x9a5;&#x9cd;&#x9af;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="L2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="&#x995;&#x9c3;&#x9a4; &#x9aa;&#x9a3;&#x9cd;&#x9af;&#x9c7;&#x9b0; &#x9a4;&#x9a5;&#x9cd;&#x9af;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LL4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x9aa;&#x9a3;&#x9cd;&#x9af;&#x997;&#x9c1;&#x9b2;&#x9bf;&#x9b0; &#x9a8;&#x9be;&#x9ae;&#x983;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="&#x9b0;&#x9bf;&#x9b8;&#x9bf;&#x99f; &#x995;&#x9aa;&#x9bf;&#x9b0; &#x9ac;&#x9b0;&#x9cd;&#x9a4;&#x9ae;&#x9be;&#x9a8; &#x985;&#x9ac;&#x9b8;&#x9cd;&#x9a5;&#x9be;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="LL4T">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LL5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x9b8;&#x9ae;&#x9cd;&#x9aa;&#x9c2;&#x9b0;&#x9cd;&#x9a3; &#x9a6;&#x9be;&#x9ae;&#x983;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="LL5T">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="Set">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x9aa;&#x9cd;&#x9b0;&#x9b8;&#x9cd;&#x9a4;&#x9c1;&#x9a4; &#x995;&#x9b0;&#x9cb;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SetActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="Reset">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x9b0;&#x9bf;&#x9b8;&#x9c7;&#x99f; &#x995;&#x9b0;&#x9cb;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ResetActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LL6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x9ac;&#x9bf;&#x995;&#x9cd;&#x9b0;&#x9c7;&#x9a4;&#x9be;&#x9b0; &#x9a8;&#x9be;&#x9ae;&#x983;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="LL6T">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="Print">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="NikoshLight" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x9aa;&#x9cd;&#x9b0;&#x9bf;&#x9a8;&#x9cd;&#x99f; &#x995;&#x9b0;&#x9cb;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PrintActionPerformed"/>
+          </Events>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="AllT">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="NikoshLight" size="18" style="0"/>
+                </Property>
+                <Property name="lineWrap" type="boolean" value="true"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="&#x9b0;&#x9bf;&#x9b8;&#x9bf;&#x99f; &#x995;&#x9aa;&#x9bf;&#x9b0; &#x9ac;&#x9b0;&#x9cd;&#x9a4;&#x9ae;&#x9be;&#x9a8; &#x985;&#x9ac;&#x9b8;&#x9cd;&#x9a5;&#x9be; &#x9a6;&#x9c7;&#x996;&#x9a4;&#x9c7; &#x9aa;&#x9be;&#x9b6;&#x9c7;&#x9b0; &#x9a4;&#x9a5;&#x9cd;&#x9af; &#x9aa;&#x9c2;&#x9b0;&#x9a3; &#x995;&#x9b0;&#x9c7; &quot;&#x9aa;&#x9cd;&#x9b0;&#x9b8;&#x9cd;&#x9a4;&#x9c1;&#x9a4; &#x995;&#x9b0;&#x9cb;&quot; &#x9ac;&#x9be;&#x99f;&#x9a8; &#x99a;&#x9be;&#x9aa;&#x9c1;&#x9a8;&#x964;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="Heading">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="NikoshLight" size="24" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="&#x9b0;&#x9bf;&#x9b8;&#x9bf;&#x99f; &#x995;&#x9aa;&#x9bf;"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
